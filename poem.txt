@@ -4,5 +4,6 @@ pink
 orange
 Blue
 Red
+Yellow
 Green
 These are the my Rainbow
