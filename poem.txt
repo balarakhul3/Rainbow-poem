@@ -6,4 +6,5 @@ Blue
 Red
 Yellow
 Green
+Indigo
 These are the my Rainbow and the unicorn
